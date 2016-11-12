@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GatePass</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_text">Hello Tatiana</string>
+    <string name="button_text">Click Me</string>
+</resources>
